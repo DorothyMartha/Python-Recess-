@@ -1,0 +1,10 @@
+Multithreading, Multiprocessing, and Context Manager
+
+Table:
+-----------
+| Title       | Description                 |
+-----------|------------------------|
+| Multithreading  | Allows concurrent execution of multiple threads within a process. |
+| Multiprocessing | Enables parallel execution by running multiple processes.           |
+| Context Manager | Provides a convenient way to manage resources using the 'with' statement.|
+-----------|------------------------|
